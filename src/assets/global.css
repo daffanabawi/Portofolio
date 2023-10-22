@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.humb {
+    @apply w-[30px] h-[2px] my-2 block bg-neutral-950;
+}
